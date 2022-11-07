@@ -1,2 +1,2 @@
 # Chameleon
-IPFS-Powered Topography Data Library &amp; Bacalhau Toolkits
+IPFS-Powered Topographic Data Library for Earth & Plant Science-Oriented Research
