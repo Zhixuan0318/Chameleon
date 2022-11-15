@@ -1,10 +1,12 @@
 <div align="center">
     <img src="img/chameleon-logo.png" width=100>
     <h1>Chameleon</h1>
-    <strong>IPFS-Powered Topographic Data Library for Earth & Plant Science-Oriented Research</strong>
+    <strong>IPFS-Powered Topographic Data Library for Earth & Plant Science-Oriented Research</strong> 
 </div>
 
 <br>
+
+![b1](https://img.shields.io/badge/Build%20On-IPFS-blue) ![b2](https://img.shields.io/badge/Integrate-Polygon-blue)
 
 ## Connect Topography Research Institutes Globally with IPFS
 
